@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Shipping rate computation",
+  "FriendlyName": "UPS (United Parcel Service)",
+  "SystemName": "Shipping.UPS",
+  "Version": "4.60.8",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "nopCommerce team (nopTools upgraded for OAuth)",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Shipping.UPS.dll",
+  "Description": "This plugin offers shipping rates by UPS - upgraded for OAUTH"
+}
